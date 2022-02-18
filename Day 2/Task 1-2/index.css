@@ -10,5 +10,7 @@
 .childbox{
     border: 1px solid black;
     text-align: center;
-    width: 100%;
+    width: 50px;
+    margin-top: 85px;
+    margin-left: 150px;
 }
