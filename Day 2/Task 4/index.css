@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    position: fixed;
+    border: 1px solid black;
+    height: 80px;
+    width: 100%;
+    background-color: purple;
+}
+
+.footer{
+    position: fixed;
+    border: 1px solid black;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: a;
+    text-align: center;
+
+}
+
+#logo{
+    height: 60px;
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#navigation{
+    float: right;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    
+ 
+}
+
+.navitems{
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+
+    
+
+}
+
+.copyright{
+    bottom: 10px;
+    position: absolute;
+    font-size: 20px;
+
+}
+
+span{
+    float: right;
+    color: white;
+    margin: 10px;
+    right: 20px;
+}
+#town{
+    width: 100%;
+    margin-top: 7px;
+    height: 555px;
+    
+}
