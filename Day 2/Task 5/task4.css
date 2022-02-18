@@ -1,0 +1,136 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+
+.header{
+    position: fixed;
+    border: 1px solid black;
+    height: 80px;
+    width: 100%;
+    background-color: purple;
+    
+}
+
+.footer{
+    bottom : 0%;
+    background: rgb(124, 61, 113);
+    height: 66px;
+    width: 100%;
+
+}
+.title{
+    width: 250px;
+    float: left;
+    padding-left: 20px;
+    color: white;
+    
+}
+#navigation{
+    float: right;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    
+ 
+}
+
+.navitems{
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+
+    
+
+}
+
+.footer{
+    position: fixed;
+    border: 1px solid black;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: azure;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+
+
+.small-text{
+    float: right;
+    color: white;
+    margin: 10px;
+    right: 20px;
+}
+
+#bottom-image{
+    text-align: center;
+    
+    
+}
+#latest{
+    margin-left: 50px;
+    
+}
+
+#indulge{
+    margin-left: 50px;
+}
+
+.content-box{
+    height: 650px;
+    width: 100%;
+    background-color: #f2f2f2;
+    
+    
+}
+
+.image-box{
+    height: 430px;
+    width: 300px;
+    
+    float: left;
+    margin: 40px;
+    margin-left: 50px;
+}
+
+.read-more{
+background-color: green;
+width:80%;
+margin-left: 10%;
+padding: 10px;
+color: white;
+border: none;
+border-radius: 5px;
+}
+
+.contact-box{
+    height: 600px;
+    width: 100%;
+    background-color: #6e3d7c;
+}
+
+#list-1{
+    list-style-type: none;
+    float: left;
+    color: white;
+    margin-top: 100px;
+}
+
+#list-item{
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    margin-left: 150px;
+    font-family: "proxima-nova",sans-serif;
+}
+
+
+    
+    
+}
