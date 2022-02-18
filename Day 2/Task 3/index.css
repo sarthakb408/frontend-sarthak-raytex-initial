@@ -1,0 +1,36 @@
+.box{
+
+}
+
+.left{
+    box-sizing: border-box;
+    height: 700px;
+    width: 50%;
+    float: left;
+    border-right: 1px solid black;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    margin-top: 250px;
+    margin-left: 250px;
+    
+}
+
+.right{
+    box-sizing: border-box;
+    background-color: aqua;
+    height: 700px;
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.child{
+    text-align: center;
+}
