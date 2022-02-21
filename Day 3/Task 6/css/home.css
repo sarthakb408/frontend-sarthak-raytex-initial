@@ -1,0 +1,143 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-blue{
+    width: 100%;
+    height: 34px;
+    background: #13c7d5;
+    
+}
+.top-contact{
+    float: left;
+    margin-left: 40px;
+    height: 34px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    font-family: "Maven Pro", Helvetica, Arial, sans-serif;
+}
+.head-cart{
+    padding-left: 10px;
+    margin-right: 10px;
+    float: right;
+    font-size: 13px;
+    line-height: 30px;
+    height: 30px;
+    color: white;
+}
+.header-top-nav{
+    font-size: 14px;
+    color:white;
+    margin-top: 4px;
+    margin-right: 8px;
+    padding: 5px;
+    float: right;
+    line-height: 15px;
+    font-weight: bold;
+    font-family: "Maven Pro", Helvetica, Arial, sans-serif;
+
+}
+
+.header-blue-anchor{
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.cart-logo{
+    height: 25px;
+    width: 30px;
+    float: right;
+    font-size: 14px;
+    margin-top: 8px;
+    color: white;
+    font-weight: bold;
+    font-family: "Maven Pro", Helvetica, Arial, sans-serif;
+}
+.header{
+    
+    width: 100%;
+    height: 57px;
+    background-color: rgb(175, 173, 173);
+
+}
+.main-logo{
+    width: 365px;
+}
+
+.navigation-menu{
+    float: right;
+    width: 800px;
+    height: 50px;
+    padding: 0px 30px;
+}
+
+.watch{
+    list-style: none;
+    float: right;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: "Maven Pro", Helvetica, Arial, sans-serif;
+}
+.watch-anchor{
+    text-decoration: none;
+    color: white;
+}
+
+.home-page-banner{
+    margin-left: 50px;
+}
+
+.container-new-arrivals{
+    padding-top: 22px;
+    
+}
+.h3-new-arrivals{
+    text-align: center;
+    font-weight: bold;
+    font-family: inherit;
+}
+
+.arrival-box{
+    width: 390px;
+    height: 470px;
+    border: 1px solid gray;
+    float: left;
+    
+    margin-left: 100px;
+}
+.container-new-arrivals{
+    height: 600px;
+}
+
+.arrival-one{
+    width: 390px;
+
+}
+.arrival-title{
+    font-weight: bold;
+    font-family: inherit;
+    font-size: 20px;
+    margin-left: 20px;
+    color: rgb(107, 107, 107);
+}
+
+.arrival-content{
+    margin-left: 10px;
+    font-family: "Maven Pro", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.button-explore{
+    width: 150px;
+    height: 30px;
+    margin-left: 120px;
+    font-family: "Maven Pro", Helvetica, Arial, sans-serif;
+    background-color: dodgerblue;
+    border-radius: 18px;
+    color: white;
+    
+}
