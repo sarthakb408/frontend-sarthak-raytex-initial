@@ -5,23 +5,23 @@ fetch("https://jsonplaceholder.typicode.com/users").then(
                 console.log(data);
 
                 if(data.lenght > 0){
-                    let temp = "";
+                    var temp = "";
 
-                    data.forEach((user) => {
+                    data.forEach((u) => {
 
                         temp +="<tr>";
-                        temp += "<td>" + user.id + "</td>";
-                        temp += "<td>" + user.name + "</td>";
-                        temp += "<td>" + user.username + "</td>";
-                        temp += "<td>" + user.email + "</td>";
-                        temp += "<td>" + user.street + "</td>";
-                        temp += "<td>" + user.suite + "</td>";
-                        temp += "<td>" + user.city + "</td>";
-                        temp += "<td>" + user.zipcode + "</td>";
-                        temp += "<td>" + user.phone + "</td>";
-                        temp += "<td>" + user.website + "</td>";
-                        temp += "<td>" + user.catchPhrase + "</td>";
-                        temp += "<td>" + user.bs + "</td></tr>";
+                        temp += "<td>" + u.id + "</td>";
+                        temp += "<td>" + u.name + "</td>";
+                        temp += "<td>" + u.username + "</td>";
+                        temp += "<td>" + u.email + "</td>";
+                        temp += "<td>" + u.street + "</td>";
+                        temp += "<td>" + u.suite + "</td>";
+                        temp += "<td>" + u.city + "</td>";
+                        temp += "<td>" + u.zipcode + "</td>";
+                        temp += "<td>" + u.phone + "</td>";
+                        temp += "<td>" + u.website + "</td>";
+                        temp += "<td>" + u.catchPhrase + "</td>";
+                        temp += "<td>" + u.bs + "</td></tr>";
                         
 
                         
